@@ -1,0 +1,78 @@
+안녕하세요 저는 후안이에요, 만나서 반가워요
+こんにちわ　わたちわ　Juaｎです　よろしくおねがいします
+
+
+Comandos para CMD:
+
+dir - Carpetas y archivos en la dirección
+
+mkdir - Crear carpeta (Se escribe mkdir y el nombre de la carpeta Ej. mkdir Prueba1)
+
+cd - Entrar en una dirección
+
+type NUL > - Crea un archivo dentro de la dirección (type NUL > nombredelarchivo.extensión)
+
+del - Borra un archivo de la dirección (del nombredelarchivo.extensión)
+
+cls - Limpia la pantalla
+
+Control + C - Finaliza el proceso que se esté ejecutando
+
+del * - Elimina todo dentro de un archivo
+
+rmdir - Elimina carpetas (rmdir nombredelacarpeta)
+
+
+Frameworks para Machine Learning en Python:
+
+- Scikit Learn
+
+- Pytorch
+
+- Keras
+
+- TensorFlow
+
+
+Comandos de Git:
+
+ls - comando para listar directorios y archivos
+
+pwd - para ver en que ruta estamos con el terminal
+
+cd - ingresa en un directorio
+
+git init - para inicializar un proyecto nuevo
+
+git status - para ver el estado de nuestros archivos
+
+git add - para agregar un archivo al "staging area" (git add nombredelarchivo.extension)
+
+git commit - para crear un primer punto de control de nuestro código
+
+git config --global user.email"correodelusuario" - para configurar correo del usuario
+
+git config --global user.name"nombredelusuario" - para configurar nombre del usuario
+
+git log - para ver todos los commits que hemos creado
+
+git checkout -- nombreDelArchivo.extension - para revertir los cambios de los archivos
+
+git diff - para ver las diferencias hechas en los archivos
+
+git commit -m "nombredelcommit" - es un atajo para evitar entrar en la consola para el commit
+
+Se puede crear un archivo que se llame ".gitignore" y colocar dentro los archivos o carpetas
+que quiero que no sean tomadas en cuenta por git
+
+git branch titulo - crea una versión "alternativa" del proyecto
+git branch - muestra las versiones que hayan del proyecto
+
+git checkout nombreversion - situa el branch en esa versión para trabajar sobre ella
+
+git add . - agrega todos los archivos a git
+
+git remote - la dirección donde se almacenará el repositorio (utilizar el git remote que da
+github)
+
+git clone direccionwebGitHub - clona el repositorio en la ubicación de la consola
